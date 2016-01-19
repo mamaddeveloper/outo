@@ -11,7 +11,7 @@ return {
 	admin = 94477327,
 	admin_name = '💲🔚➰Dev MaMaD Z〽️🔜🔝',
 	about_text = [[
-I am Jerry Bot, the plugin-wielding, multi-purpose Telegram bot written by @GenerousMan_Bot
+I am MamadBot, the plugin-wielding, multi-purpose Telegram bot written by @GenerousMan_Bot
 
  /help ro befres!
 ]]	,
@@ -55,7 +55,7 @@ I am Jerry Bot, the plugin-wielding, multi-purpose Telegram bot written by @Gene
 	},
 	moderation = {
 		admins = {
-			['00000000'] = 'You'
+			['94477327'] = 'You'
 		},
 		admin_group = -00000000,
 		realm_name = 'My Realm'
